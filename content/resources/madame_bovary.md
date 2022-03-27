@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9d3a9b16-4fde-58a9-846e-b5f9644c8498
 resourcetype: Document
 title: Madame Bovary
 uid: 25cdbb0d-f3de-2a93-8ed0-b9cadf4e4978

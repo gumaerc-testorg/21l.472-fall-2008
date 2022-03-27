@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9d3a9b16-4fde-58a9-846e-b5f9644c8498
 resourcetype: Document
 title: Don Quixote
 uid: 87151935-dcd4-553c-4cb6-85811d23e479

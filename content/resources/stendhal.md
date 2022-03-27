@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0d70c275-5da5-7710-95a8-b139d2901083
 resourcetype: Document
 title: Stendhal, The Red and the Black
 uid: 215c2d0b-ecb3-a134-9453-7501a731f48d

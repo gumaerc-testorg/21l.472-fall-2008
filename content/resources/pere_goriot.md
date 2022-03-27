@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9d3a9b16-4fde-58a9-846e-b5f9644c8498
 resourcetype: Document
 title: "P\xE8re Goriot"
 uid: 9ac6ced7-0b68-6839-3d5f-92950f491e86

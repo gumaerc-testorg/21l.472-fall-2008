@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0d70c275-5da5-7710-95a8-b139d2901083
 resourcetype: Document
 title: Dostoyevsky, Crime and Punishment
 uid: bbb83428-2eab-ce3d-bba2-fa1b471eb7fa

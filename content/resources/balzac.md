@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0d70c275-5da5-7710-95a8-b139d2901083
 resourcetype: Document
 title: Balzac, Pere Goriot
 uid: 94770b05-94bf-7d92-959d-c5d741af3633
