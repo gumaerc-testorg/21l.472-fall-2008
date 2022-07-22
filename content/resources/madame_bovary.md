@@ -6,6 +6,7 @@ file: /courses/21l-472-major-european-novels-fall-2008/25cdbb0df3de2a938ed0b9cad
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Madame Bovary
 uid: 25cdbb0d-f3de-2a93-8ed0-b9cadf4e4978
 ---
 Assigned reading: Flaubert, Gustave. Madame Bovary. Translated by Eleanor Marx-Aveling. New York, NY: Barnes & Noble Classics, 2005. ISBN: 9781593080525.
-

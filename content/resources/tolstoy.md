@@ -5,6 +5,7 @@ file: /courses/21l-472-major-european-novels-fall-2008/31ec19ee782451de090abc587
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Tolstoy, Anna Karenina
 uid: 31ec19ee-7824-51de-090a-bc587bcd3ee3
 ---
 Reading study and discussion questions on Tolstoy's Anna Karenina.
-

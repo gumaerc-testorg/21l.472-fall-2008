@@ -5,6 +5,7 @@ file: /courses/21l-472-major-european-novels-fall-2008/97aa081e94c73f99c25da19b1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Cervantes, Don Quixote
 uid: 97aa081e-94c7-3f99-c25d-a19b1c8415d7
 ---
 Reading study and discussion questions on Cervantes' Don Quixote.
-
