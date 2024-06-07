@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions for the final paper assignment of the course.
 file: /courses/21l-472-major-european-novels-fall-2008/344a18610a234d77837ab5054ec7b6f6_paper3.pdf
+file_size: 173206
 file_type: application/pdf
 learning_resource_types:
 - Assignments

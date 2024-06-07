@@ -2,6 +2,7 @@
 content_type: resource
 description: Reading study and discussion questions on Tolstoy's Anna Karenina.
 file: /courses/21l-472-major-european-novels-fall-2008/31ec19ee782451de090abc587bcd3ee3_tolstoy.pdf
+file_size: 193058
 file_type: application/pdf
 learning_resource_types:
 - Assignments
