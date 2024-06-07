@@ -2,6 +2,7 @@
 content_type: resource
 description: Reading study and discussion questions on Cervantes' Don Quixote.
 file: /courses/21l-472-major-european-novels-fall-2008/97aa081e94c73f99c25da19b1c8415d7_cervantes.pdf
+file_size: 247102
 file_type: application/pdf
 learning_resource_types:
 - Assignments

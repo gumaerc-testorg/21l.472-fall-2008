@@ -2,6 +2,7 @@
 content_type: resource
 description: Reading study and discussion questions on Balzac's Pere Goriot.
 file: /courses/21l-472-major-european-novels-fall-2008/94770b0594bf7d92959dc5d741af3633_balzac.pdf
+file_size: 176195
 file_type: application/pdf
 learning_resource_types:
 - Assignments
