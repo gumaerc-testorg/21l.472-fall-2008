@@ -2,7 +2,7 @@
 content_type: resource
 description: Reading study and discussion questions on Stendhal's The Red and the
   Black.
-file: /courses/21l-472-major-european-novels-fall-2008/215c2d0becb3a13494537501a731f48d_stendhal.pdf
+file: /ol-ocw-studio-app/courses/21l-472-major-european-novels-fall-2008/215c2d0becb3a13494537501a731f48d_stendhal.pdf
 file_size: 183573
 file_type: application/pdf
 learning_resource_types:
