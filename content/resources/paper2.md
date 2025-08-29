@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for the second paper assignment of the course.
-file: /courses/21l-472-major-european-novels-fall-2008/c35150d5c8717347f5d2b35fe7756008_paper2.pdf
+file: /ol-ocw-studio-app/courses/21l-472-major-european-novels-fall-2008/c35150d5c8717347f5d2b35fe7756008_paper2.pdf
 file_size: 84050
 file_type: application/pdf
 learning_resource_types:
