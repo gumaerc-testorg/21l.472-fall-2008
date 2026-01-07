@@ -12,17 +12,17 @@ uid: 9d3a9b16-4fde-58a9-846e-b5f9644c8498
 Required Books
 --------------
 
-de Cervantes, Miguel. _Don Quixote_. Excerpts from translation by John Ormsby ({{% resource_link 87151935-dcd4-553c-4cb6-85811d23e479 "PDF" %}}) ({{% resource_link "e6d47feb-44c2-4284-b882-2ab74f63a4bb" "Download" %}} the complete work from Project Gutenberg.)
+de Cervantes, Miguel. _Don Quixote_. Excerpts from translation by John Ormsby ({{% resource_link 87151935-dcd4-553c-4cb6-85811d23e479 "PDF" %}}) ([Download](http://www.gutenberg.org/etext/996) the complete work from Project Gutenberg.)
 
  de Balzac, Honore. _Père Goriot_. Translated by Henry Reed. New York, NY: Signet Classics, 2004. ISBN: 9780451529596. (Version used in class, translated by Ellen Marriage ({{% resource_link 9ac6ced7-0b68-6839-3d5f-92950f491e86 "PDF" %}}).)
 
 Stendhal. _The Red and the Black_. Translated by Lloyd C. Parks. New York, NY: Signet Classics, 2006. ISBN: 9780451530288.
 
-Flaubert, Gustave. _Madame Bovary_. Translated by Eleanor Marx-Aveling. New York, NY: Barnes & Noble Classics, 2005. ISBN: 9781593080525. ({{% resource_link 25cdbb0d-f3de-2a93-8ed0-b9cadf4e4978 "PDF" %}}) ({{% resource_link "7ede09e3-3a4f-47be-a442-1f76c055b1ef" "Download" %}} this translation in other formats from Project Gutenberg.)
+Flaubert, Gustave. _Madame Bovary_. Translated by Eleanor Marx-Aveling. New York, NY: Barnes & Noble Classics, 2005. ISBN: 9781593080525. ({{% resource_link 25cdbb0d-f3de-2a93-8ed0-b9cadf4e4978 "PDF" %}}) ([Download](http://www.gutenberg.org/etext/2413) this translation in other formats from Project Gutenberg.)
 
-Dostoyevsky, Fyodor. _Crime and Punishment_. Translated by Richard Pevear and Larissa Volokhonsky. New York, NY: Vintage, 1993. ISBN: 9780679734505. ({{% resource_link "c019ebe3-f0dc-47ee-aed8-79fa964c41b5" "Download" %}} a different translation by Constance Garnett from Project Gutenberg.)
+Dostoyevsky, Fyodor. _Crime and Punishment_. Translated by Richard Pevear and Larissa Volokhonsky. New York, NY: Vintage, 1993. ISBN: 9780679734505. ([Download](http://www.gutenberg.org/etext/2554) a different translation by Constance Garnett from Project Gutenberg.)
 
-Tolstoy, Leo. _Anna Karenina_. Translated by David Magarshack. New York, NY: Signet Classics, 2002. ISBN: 9780451528612. ({{% resource_link "a443448c-cd8a-4e9b-9c09-dbb0c26998b7" "Download" %}} a different translation by Constance Garnett from Project Gutenberg.)
+Tolstoy, Leo. _Anna Karenina_. Translated by David Magarshack. New York, NY: Signet Classics, 2002. ISBN: 9780451528612. ([Download](http://www.gutenberg.org/etext/1399) a different translation by Constance Garnett from Project Gutenberg.)
 
 {{< tableopen >}}
 {{< theadopen >}}
